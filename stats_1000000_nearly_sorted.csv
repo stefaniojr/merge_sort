@@ -1,0 +1,6 @@
+1000000.txt (Nearly Sorted): Tempo de execução para diferentes versões do Merge Sort (CUTOFF = 10)
+,,
+Top Down,0.125478 s,
+Top Down Cut Off,0.118738 s,
+Top Down Merge Skip,0.020336 s,
+Top down Merge Skip e Cut Off,0.017214 s,
